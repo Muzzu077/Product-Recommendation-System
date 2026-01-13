@@ -1,0 +1,7 @@
+amazon_reviews.csv
+__pycache__/
+*.pyc
+.env
+.venv
+env/
+venv/
